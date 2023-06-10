@@ -395,7 +395,9 @@ bu özellikleri genel istisnalara önem vererek programlayıp, işlevsel hale ge
 ### Son Söz
 En nihayetinde 25 sınıflı bu projeyi geliştirdim ve teslim ettikten sonra üzerine çeşitli eklemeler
 yapmayı da planlıyorum, bu eklemeleri takip etmek isterseniz github linki aşağıdadır;
+
 https://github.com/YavuzSametKan/OOP_Bilgisayar
+
 Güzel bir projeydi bana OOP bakış açısı kattığına inanıyorum ve kendimi OOP konusunda geliştirmeye
 devam edeceğim. Bu güzel proje ödevi için değerli bölüm hocalarıma teşekkür ediyorum, umarım siz
 değerli hocalarım da geliştirdiğim projeden memnun kalmışsınızdır. Sağlıcakla kalın.
