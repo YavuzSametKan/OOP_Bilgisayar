@@ -19,8 +19,7 @@ UML Diyagramının SVG hali;
 https://github.com/YavuzSametKan/OOP_Bilgisayar/blob/main/images_for_readme_file/UML.svg
 
 #### UML diyagramını detaylı incelemek için yapılması gerekenler;
-  I. adım -> Linke tıkla: https://drive.google.com/file/d/1aqhs0e0Y5v3MawliBxOYF0T-B-
-U7iHCD/view?usp=sharing
+  I. adım -> Linke tıkla: https://drive.google.com/file/d/1aqhs0e0Y5v3MawliBxOYF0T-B-U7iHCD/view?usp=sharing
 
   II. adım -> Gösterilen yere tıklayın ve diagrams programında UML’i inceleyin.
   
