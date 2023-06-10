@@ -1,5 +1,5 @@
-# OOP Bilgisayar
-### Bilgisayar Sınıfı ve Özellikleri
+# Fırat Üniversitesi Yazılım Mühendisliği Birinci Sınıf Bahar Yarıyılı Projesi
+## Bilgisayar Sınıfı ve Özellikleri
 Bu proje de bir bilgisayarları OOP (Object Oriented Programming) yaklaşımıyla ele alıp elimden
 geldiğince özellikler ekleyerek yazılım ortamına aktarmaya çalıştım. Şimdi sizlere bu süreçte izlediğim
 adımları anlatayım.
